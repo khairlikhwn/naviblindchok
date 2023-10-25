@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khairlikhwn.github.io/naviblind/static/css/main.caf25fb4.css",
+    "main.js": "/khairlikhwn.github.io/naviblind/static/js/main.7f91f77c.js",
+    "index.html": "/khairlikhwn.github.io/naviblind/index.html",
+    "main.caf25fb4.css.map": "/khairlikhwn.github.io/naviblind/static/css/main.caf25fb4.css.map",
+    "main.7f91f77c.js.map": "/khairlikhwn.github.io/naviblind/static/js/main.7f91f77c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf25fb4.css",
+    "static/js/main.7f91f77c.js"
+  ]
+}
