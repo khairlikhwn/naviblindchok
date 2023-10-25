@@ -1,5 +1,5 @@
 {
-  "homepage": "https:/chocofries12.github.io/naviblind",
+  "homepage": "https:/khairlikhwn.github.io/naviblind",
   "name": "handpose",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "^5.5.0"
+    "@capacitor/cli": "^5.5.0",
+    "gh-pages": "^6.0.0"
   }
 }
